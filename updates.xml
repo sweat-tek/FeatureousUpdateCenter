@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.8//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_8.dtd">
-<module_updates timestamp="18/01/08/17/09/2020">
+<module_updates timestamp="11/13/11/17/09/2020">
 
 
 
@@ -10,25 +10,25 @@
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.mockito" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Name="lib.mockito" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="b67626141f06f061cb234a938676d71cb9f5b571bb7bb784722528bc212862e46a7b17a4f063055120aa08ff323298b1cf84ab5aa7f466fcc63bd3af6adfd48f"/>
+    <message_digest algorithm="SHA-512" value="98283c15139960ac5a8cb135b21d3e362197e8a755cc49435671a171fdd9e23a075753f42becaac62c4d586e2d9d78eaba24156170853ed7528c7d8a34a2deca"/>
 </module>
 
 <module_group name="Featureous">
 
-<module codenamebase="batik" distribution="batik.nbm" downloadsize="1753001" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+<module codenamebase="batik" distribution="batik.nbm" downloadsize="1753002" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="batik/3" OpenIDE-Module-Display-Category="Featureous" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Name="Batik library" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="lib module" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="9391dc6186cebb7c9db03eff38cd4132e2af55404f7cbaacaf87459932de72589a3864cc17c4495639a080ba474993bd88aa0b62fd2ef08defa06571a9c23e1d"/>
+    <message_digest algorithm="SHA-512" value="784c925e0a818a6d144bb070a1fa8c5f93192c0ad650ff180d5a969a1299d41a34ee2483d7e77c134b2945a2f9baa97ea93195feafabd4fba67694271ab11d93"/>
 </module>
 
-<module codenamebase="dk.sdu.mmmi.featureous.core" distribution="dk-sdu-mmmi-featureous-core.nbm" downloadsize="176166" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="true" releasedate="2020/09/17">
+<module codenamebase="dk.sdu.mmmi.featureous.core" distribution="dk-sdu-mmmi-featureous-core.nbm" downloadsize="176108" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="true" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="dk.sdu.mmmi.featureous.core/3" OpenIDE-Module-Display-Category="Featureous" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.featureous.icons/3 &gt; 3.0, dk.sdu.mmmi.featuretracer/3 &gt; 3.0, dk.sdu.mmmi.srcUtils/3 &gt; 3.0, dk.sdu.mmmi.utils.ga/3 &gt; 3.0, org.apache.tools.ant.module/3 &gt; 3.79.1.2, org.netbeans.api.java.classpath/1 &gt; 1.29.1, org.netbeans.api.progress/1 &gt; 1.23.1, org.netbeans.api.progress.nb &gt; 1.46.1, org.netbeans.libs.javacapi &gt; 0.13.1.1, org.netbeans.modules.apisupport.project/1 = 12.0-631bd69cd6112b1cc4c892c24e3e605b1ba04241, org.netbeans.modules.java.j2seproject/1 = 48, org.netbeans.modules.java.project/1 &gt; 1.38.1, org.netbeans.modules.java.project.ui/1 &gt; 1.66.1, org.netbeans.modules.java.source &gt; 0.149.1.32.2.25.2.1, org.netbeans.modules.java.sourceui/1 &gt; 1.13.1.1.10, org.netbeans.modules.project.ant/1 &gt; 1.64.1, org.netbeans.modules.projectapi/1 = 12.0-631bd69cd6112b1cc4c892c24e3e605b1ba04241, org.netbeans.modules.projectuiapi/1 &gt; 1.47.2.8, org.netbeans.modules.projectuiapi.base/1 &gt; 1.83.1.9, org.netbeans.modules.refactoring.api &gt; 1.45.1.1, org.netbeans.modules.settings/1 &gt; 1.26.1, org.openide.actions &gt; 6.38.1, org.openide.awt &gt; 7.23.1, org.openide.dialogs &gt; 7.15.1, org.openide.execution &gt; 9.2.1, org.openide.explorer &gt; 6.28.2, org.openide.filesystems &gt; 7.38.2, org.openide.io &gt; 1.26.1, org.openide.loaders &gt; 7.16.1, org.openide.modules = 12.0-631bd69cd6112b1cc4c892c24e3e605b1ba04241, org.openide.nodes &gt; 7.16.1, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.33.1" OpenIDE-Module-Name="Featureous core" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Featureous core module" OpenIDE-Module-Specification-Version="3.0.2"/>
         
 
-    <message_digest algorithm="SHA-512" value="04e980edaaac499c98163a481278ea11382bc1583a079d3aed62b18bd5e6477308cebf92e2c0e1bb1eb12a9134464789f13597ff9b1680db39ac36b8365b81bd"/>
+    <message_digest algorithm="SHA-512" value="962e6b16bcb880e0ff5d73f949b3fafdacc80e375b78c4929a49600350d1fdc80e4c035e5b9121cca2e6a2e1cf9397864a4ee91887769ffe059218ac8456e87a"/>
 </module>
 
 <module autoload="true" codenamebase="dk.sdu.mmmi.featuretracer" distribution="dk-sdu-mmmi-featuretracer.nbm" downloadsize="661882" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
@@ -36,15 +36,15 @@
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.featuretracer/3" OpenIDE-Module-Display-Category="Featureous" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Name="FeatureTracer library" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Tracing module" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="daa584d61e9a673bf3461b8ddc7e457c12e3d1b0b36be0d55f6d28ab7cab5995011e7868a9ac752d754a1a471a280cb68370c3cfbfbfca219bbd4827758184f0"/>
+    <message_digest algorithm="SHA-512" value="44ab037c5fe78819eb91e8dac9d7879335dc0dd2f092685729c035114bcf88b7e1337efa871dca9ff9474a7b3af22bbf3ebfd0f03e0c7592e67b1ee4032e4ae8"/>
 </module>
 
-<module codenamebase="dk.sdu.mmmi.utils.ga" distribution="dk-sdu-mmmi-utils-ga.nbm" downloadsize="42153" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+<module codenamebase="dk.sdu.mmmi.utils.ga" distribution="dk-sdu-mmmi-utils-ga.nbm" downloadsize="42156" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.utils.ga/3" OpenIDE-Module-Display-Category="Featureous" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="org.netbeans.api.progress/1 &gt; 1.23.1" OpenIDE-Module-Name="GA library" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Multi-objective grouping genetic algorithm infrastructure" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="90e7457840a15c9cea89a6e25a2384a1ba4b3b384e3b59c9b1b6adbb0d0c43377ad55c500dcc700e0903a0c9ea3a37c1ec794cbc0cfa1a2837e990be5d3c592a"/>
+    <message_digest algorithm="SHA-512" value="bdd4221dd1ecb105a27519fb5091c915658a6ffda98ca46aea812957ecfa0a234ac2dbfc8fad742082a3999e8f1b4995fce2d5b64a7ddf3fb65e1e0ba06d0bfb"/>
 </module>
 
 <module codenamebase="dk.sdu.mmmi.featureous.icons" distribution="dk-sdu-mmmi-featureous-icons.nbm" downloadsize="6661832" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
@@ -52,15 +52,15 @@
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="dk.sdu.mmmi.featureous.icons/3" OpenIDE-Module-Display-Category="Featureous" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="org.openide.util &gt; 8.6.1" OpenIDE-Module-Name="Icons library" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Various open source icons" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="68a3e3e8b8cfe00d971b1fecb4015e535fc2d059f196c7cfdbc87ef89895dda854ac4911291441f42264538dc9c128ede59122e77dd598674c213c397d4c0a0a"/>
+    <message_digest algorithm="SHA-512" value="e18264eabc0b61a2be091abe1d73b6eb583db83b02f36224dba1943ba62d24b0b6cfc880dc0b9a9ceaf21d569dc1ee30fa0aebde0c6e296608e4323727443f61"/>
 </module>
 
-<module codenamebase="dk.sdu.mmmi.srcUtils" distribution="dk-sdu-mmmi-srcUtils.nbm" downloadsize="341492" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+<module codenamebase="dk.sdu.mmmi.srcUtils" distribution="dk-sdu-mmmi-srcUtils.nbm" downloadsize="341490" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="dk.sdu.mmmi.srcUtils/3" OpenIDE-Module-Display-Category="Featureous" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="org.netbeans.api.progress/1 &gt; 1.20.2, org.netbeans.api.progress.nb &gt; 1.46.1, org.netbeans.libs.javacapi &gt; 0.13.1.1, org.netbeans.modules.editor/3 &gt; 1.50.1.3.10.2, org.netbeans.modules.editor.errorstripe.api/1 &gt; 2.11.1.1, org.netbeans.modules.editor.lib/2-3 &gt; 2.10.2.10.2, org.netbeans.modules.editor.lib2/1 &gt; 1.28.1.2, org.netbeans.modules.editor.util/1 &gt; 1.36.1, org.netbeans.modules.java.editor/1 = 12, org.netbeans.modules.java.editor.lib/1 &gt; 1.16.1, org.netbeans.modules.java.hints/1 = 17, org.netbeans.modules.java.j2seproject/1 = 48, org.netbeans.modules.java.lexer/1 &gt; 1.14.1, org.netbeans.modules.java.project/1 = 12.0-631bd69cd6112b1cc4c892c24e3e605b1ba04241, org.netbeans.modules.java.source &gt; 0.149.1.32.2.25.2.1, org.netbeans.modules.java.source.base &gt; 2.9.1.2.2.25.8.1, org.netbeans.modules.java.sourceui/1 &gt; 1.13.1.1.10, org.netbeans.modules.lexer/2 &gt; 1.39.1.1, org.netbeans.modules.parsing.api/1 &gt; 1.33.2.4, org.netbeans.modules.project.ant/1 &gt; 1.64.1, org.netbeans.modules.projectapi/1 &gt; 1.31.1, org.netbeans.modules.projectuiapi/1 &gt; 1.47.2.8, org.netbeans.modules.projectuiapi.base/1 &gt; 1.83.1.9, org.netbeans.modules.refactoring.api &gt; 1.11.1, org.netbeans.modules.refactoring.java/1 &gt; 1.14.1.1, org.netbeans.modules.settings/1 &gt; 1.26.1, org.netbeans.spi.editor.hints/0-1 &gt; 1.14.1.7.2, org.openide.actions &gt; 6.16.1, org.openide.awt &gt; 7.23.1, org.openide.dialogs &gt; 7.15.1, org.openide.filesystems &gt; 7.38.2, org.openide.io &gt; 1.23.1, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.text &gt; 6.30.1, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1" OpenIDE-Module-Name="Java source utilities" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Java source utils" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="fe5290dc4169734ffc4e318955ffa7e08efc798b7c66399cf78be3349251d6a434f6f8ef28d9cb45f6bd362fabf6569b43384fbb82755ee0d7aa7bc034220002"/>
+    <message_digest algorithm="SHA-512" value="8d5cc26f2d0287657897408a42abb609519efeab64e782b0c661357907814f2071f77fc87bcd6809110a9cfb7b173879767a60416d4aa3328d5defaf07b15021"/>
 </module>
 
 <module autoload="true" codenamebase="org.jfreechart" distribution="org-jfreechart.nbm" downloadsize="1534975" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
@@ -68,51 +68,59 @@
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.jfreechart/3" OpenIDE-Module-Display-Category="Featureous" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="batik/3 &gt; 3.0" OpenIDE-Module-Name="Jfreechart library" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="lib module" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="8dde17600bf7cc659737b0eea34a1297bf9bf98daa9c9d3707e86d4a73a6b83ebc90735d967ce1b7a275e2bd9a74f3e26907d1e7cd9f5febd27eb13484001ba7"/>
+    <message_digest algorithm="SHA-512" value="bdd765849c5c90203972ee56d4858ecd3f4402b71280407e1afbfcd56d434b43c46a7756da22ea47513673cfdfd8d0f5039dee4414487120a8d962c447dd9ca1"/>
 </module>
 
-<module codenamebase="prefuse_profusians" distribution="prefuse_profusians.nbm" downloadsize="2207153" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+<module codenamebase="prefuse_profusians" distribution="prefuse_profusians.nbm" downloadsize="2207154" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="prefuse_profusians/3" OpenIDE-Module-Display-Category="Featureous" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="batik/3 &gt; 3.0" OpenIDE-Module-Name="lib.prefuse_profusians" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="lib module" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="1e25f860415691a3bea28d928d652208a0b4d4ed144c6356f8e889e20f07634005df2805dc01bd89e939d1c0d9cd1d96e8c568a89d0af026c600892cbfe49ac4"/>
+    <message_digest algorithm="SHA-512" value="8ce17baea0a6380d7c087b70efc851d18557516ffc834131be8ace55c2ccd9d0950fb54a7add9b88fd162411faee3647e59fbf91269e27f2be3be93c47568b16"/>
 </module>
 
 </module_group>
 
 <module_group name="Featureous view">
 
-<module codenamebase="dk.sdu.mmmi.featureous.featurecallgraph" distribution="dk-sdu-mmmi-featureous-featurecallgraph.nbm" downloadsize="44942" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+<module codenamebase="dk.sdu.mmmi.featureous.featurecallgraph" distribution="dk-sdu-mmmi-featureous-featurecallgraph.nbm" downloadsize="44940" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="dk.sdu.mmmi.featureous.featurecallgraph/3" OpenIDE-Module-Display-Category="Featureous view" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="batik/3 &gt; 3.0, dk.sdu.mmmi.featureous.core/3 &gt; 3.0, dk.sdu.mmmi.featureous.icons/3 &gt; 3.0, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.74.1, prefuse_profusians/3 &gt; 3.0" OpenIDE-Module-Name="Featureous feature call graph" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="866d92c7d23c03117e06e63006cc250c23ffbeccdbb18c52ebbd574c6ed1c16de01c4ec44cdc25165c3b551d4d3c3f9a556b7cf4d23ce83af9b2c2e806de88bb"/>
+    <message_digest algorithm="SHA-512" value="90ed7409dc5080a222fe6157fc2fc4cf75a00deef3e6cadd65f5ade1a16be6773247324a17fbbd7d5769f08af20024b06158cc5dc55293f65c5c5ab286076bfa"/>
 </module>
 
-<module codenamebase="dk.sdu.mmmi.featureous.featurecodecorrelation.graph" distribution="dk-sdu-mmmi-featureous-featurecodecorrelation-graph.nbm" downloadsize="47793" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+<module codenamebase="dk.sdu.mmmi.featureous.views.featurecodecharacterization" distribution="dk-sdu-mmmi-featureous-views-featurecodecharacterization.nbm" downloadsize="6901494" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+        
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="dk.sdu.mmmi.featureous.views.featurecodecharacterization/3" OpenIDE-Module-Display-Category="Featureous view" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.featureous.core/3 &gt; 3.0, dk.sdu.mmmi.srcUtils/3 &gt; 3.0, org.jfreechart/3 &gt; 3.0, org.netbeans.api.progress/1 &gt; 1.23.1, org.openide.modules &gt; 7.22.1, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1" OpenIDE-Module-Name="Featureous feature-code 3d characterization" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.0"/>
+        
+
+    <message_digest algorithm="SHA-512" value="35d8b9b11a07b7ef2b5f8c7048e70182be096f26bf1db121d396080f886eca4b7c5d12220465581feaaf57861795592b361dd8da39fbb2fd528f7e9e755f00d9"/>
+</module>
+
+<module codenamebase="dk.sdu.mmmi.featureous.featurecodecorrelation.graph" distribution="dk-sdu-mmmi-featureous-featurecodecorrelation-graph.nbm" downloadsize="6889204" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="dk.sdu.mmmi.featureous.featurecodecorrelation.graph/3" OpenIDE-Module-Display-Category="Featureous view" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.featureous.core/3 &gt; 3.0, dk.sdu.mmmi.featureous.icons/3 &gt; 3.0, org.netbeans.api.progress/1 &gt; 1.23.1, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.33.1, prefuse_profusians/3 &gt; 3.0" OpenIDE-Module-Name="Featureous feature-code correlation graph" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="8452f3aaa1c89c242ac2d31f781cefb93906065ea9dad8bb8cee4d0b0742e0cfaae085bdad112e602b3ef6296161d60a077d7b282f73bd97db938be29bd1546e"/>
+    <message_digest algorithm="SHA-512" value="84a550fb9858baaa48374cb888fd985f827e94acc88301b7656b67f0bc547039b508ef3a20a129d1bf754597433583145d988018f5d308f20c93622fa94eaffc"/>
 </module>
 
-<module codenamebase="dk.sdu.mmmi.featureous.featurecodecorrelationgrid" distribution="dk-sdu-mmmi-featureous-featurecodecorrelationgrid.nbm" downloadsize="38146" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+<module codenamebase="dk.sdu.mmmi.featureous.featurecodecorrelationgrid" distribution="dk-sdu-mmmi-featureous-featurecodecorrelationgrid.nbm" downloadsize="38145" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="dk.sdu.mmmi.featureous.featurecodecorrelationgrid/3" OpenIDE-Module-Display-Category="Featureous view" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.featureous.core/3 &gt; 3.0, dk.sdu.mmmi.featureous.icons/3 &gt; 3.0, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.74.1" OpenIDE-Module-Name="Featureous feature-code correlation grid" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="baa61b8dd86320a959b31f4f05afcdc997cedeeb29b3aa60b082692b31d7693739398e27bdf9988e78ba2b688c7d86083d869e6a67041795d409e23e50c0ab75"/>
+    <message_digest algorithm="SHA-512" value="7272a77346cde3b1539facbfef78c0105b2ac26686e4ee96b2d6af023952d6c643c91a789bcfc2e913f9204d6c245f8b2758a5e9be40d07fafce8a8d35cf61a6"/>
 </module>
 
-<module codenamebase="dk.sdu.mmmi.featureous.featurerelationscharacterization" distribution="dk-sdu-mmmi-featureous-featurerelationscharacterization.nbm" downloadsize="48634" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
+<module codenamebase="dk.sdu.mmmi.featureous.featurerelationscharacterization" distribution="dk-sdu-mmmi-featureous-featurerelationscharacterization.nbm" downloadsize="48632" homepage="featureous.org" license="CCF76ADC" moduleauthor="ao" needsrestart="false" releasedate="2020/09/17">
         
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="dk.sdu.mmmi.featureous.featurerelationscharacterization/3" OpenIDE-Module-Display-Category="Featureous view" OpenIDE-Module-Implementation-Version="200917" OpenIDE-Module-Java-Dependencies="Java &gt; 13" OpenIDE-Module-Module-Dependencies="dk.sdu.mmmi.featureous.core/3 &gt; 3.0, dk.sdu.mmmi.featureous.icons/3 &gt; 3.0, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.util.ui &gt; 9.6.1, org.openide.windows &gt; 6.33.1, prefuse_profusians/3 &gt; 3.0" OpenIDE-Module-Name="Featureous feature relations characterization" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="c9782e83ff658d5df81ae6a3014997c2e8908029e39c805288c479381314f39f114c89189651a9cd240f9f59dc8fb4e138153fc3dab2c010df8ded4edd951334"/>
+    <message_digest algorithm="SHA-512" value="5721af8a03871e5553f7362c36b22b4b0fde402ffc779babeef033c5afd84efe0896ade470ebfe09941a710a16ce1defb3bdfcbf3e9d3fab4e6acd3d4a50cdd6"/>
 </module>
 
 </module_group>
